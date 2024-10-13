@@ -1,4 +1,4 @@
-public class largestsmallestInArray {
+public class fourteen {
 
     public static void FindLargestandSmallest(int arr[]){
         int largest=Integer.MIN_VALUE;

@@ -1,4 +1,4 @@
-public class countVowelAndString {
+public class twelve {
     
     public static void CountVandC(String s) {
         int length=s.length();

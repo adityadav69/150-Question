@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class reverseString{
+public class thirteen{
 
     public static void reverseStringss(String s) {
         String reverse="";
@@ -8,12 +8,7 @@ public class reverseString{
             reverse=reverse+s.charAt(i);
         }
         System.out.println("Reverse String is "+reverse);
-        if(s.equals(reverse)){
-            System.out.println("Palindrome String");
-        }
-        else{
-            System.out.println("Not plaindrome string");
-        }
+       
     }
     public static void main(String[] args) {
        String s;

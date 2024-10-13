@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class second{
+public class two{
 
     public static boolean checkPrime(int n){
         if(n==2){

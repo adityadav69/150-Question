@@ -1,4 +1,4 @@
-public class fourth {
+public class four {
 
     public static void checkArmstrong(int num) {
         int sum=0;

@@ -1,4 +1,4 @@
-public class lowest {
+public class eleven {
 
     public static int highestFactor(int a, int b) {
         int index = Math.min(a, b);

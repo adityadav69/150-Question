@@ -1,4 +1,4 @@
-public class HCF {
+public class ten {
     public static int highestFactor(int a , int b){
         int index=Math.min(a, b);
         for(int i=index;i>=1;i--){
